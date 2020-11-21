@@ -14,3 +14,4 @@ FontSizeControl.addEventListener('input', changeFont);
 function changeFont() {
   text.style.fontSize = this.value + 'px';
 }
+
